@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { BookOpen, Code, Coffee, Compass, Gamepad2, Headphones, Mountains, Palette } from 'lucide-react';
+import { BookOpen, Code, Coffee, Compass, Gamepad2, Headphones, Mountain, Palette } from 'lucide-react';
 
 const interestsData = [
   {
@@ -10,7 +10,7 @@ const interestsData = [
   },
   {
     name: 'Hiking',
-    icon: <Mountains size={28} />,
+    icon: <Mountain size={28} />,
     description: 'Exploring nature trails and mountains helps me clear my mind and stay inspired.',
   },
   {

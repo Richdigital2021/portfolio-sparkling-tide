@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { ArrowDown, GitHub, Linkedin, Twitter } from 'lucide-react';
+import { ArrowDown, Github, Linkedin, Twitter } from 'lucide-react';
 
 const Hero: React.FC = () => {
   return (
@@ -20,7 +20,7 @@ const Hero: React.FC = () => {
             </p>
             <div className="flex space-x-4 mb-12">
               <a href="#" className="social-icon" aria-label="GitHub">
-                <GitHub size={20} />
+                <Github size={20} />
               </a>
               <a href="#" className="social-icon" aria-label="LinkedIn">
                 <Linkedin size={20} />
