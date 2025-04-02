@@ -43,7 +43,7 @@ const Hero: React.FC = () => {
               <div className="absolute -inset-1 rounded-full bg-gradient-to-r from-accent to-primary opacity-75 blur"></div>
               <div className="relative bg-card rounded-full overflow-hidden h-64 w-64 md:h-80 md:w-80 border-4 border-background">
                 <img 
-                  src="https://images.unsplash.com/photo-1649972904349-6e44c42644a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1587&q=80" 
+                  src="/lovable-uploads/7f5c2dc5-bff9-4ac8-beb4-c6fa61375b55.png" 
                   alt="Richard Akintunde" 
                   className="object-cover w-full h-full"
                 />
