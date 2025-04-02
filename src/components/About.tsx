@@ -52,15 +52,15 @@ const About: React.FC = () => {
               <ul className="space-y-3">
                 <li className="flex">
                   <span className="font-semibold w-32">Name:</span>
-                  <span>John Doe</span>
+                  <span>Richard Akintunde</span>
                 </li>
                 <li className="flex">
                   <span className="font-semibold w-32">Location:</span>
-                  <span>San Francisco, CA</span>
+                  <span>Lagos, Nigeria</span>
                 </li>
                 <li className="flex">
                   <span className="font-semibold w-32">Email:</span>
-                  <span>johndoe@example.com</span>
+                  <span>akintunderichard28@gmail.com</span>
                 </li>
                 <li className="flex">
                   <span className="font-semibold w-32">Availability:</span>
