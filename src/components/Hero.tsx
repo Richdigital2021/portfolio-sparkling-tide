@@ -10,7 +10,7 @@ const Hero: React.FC = () => {
           <div className="md:w-1/2 animate-fade-in">
             <p className="text-accent font-medium mb-2">Hello, I'm</p>
             <h1 className="text-4xl md:text-6xl font-bold mb-4 leading-tight">
-              John Doe
+              Richard Akintunde
             </h1>
             <h2 className="text-2xl md:text-3xl font-semibold mb-6 text-muted-foreground">
               Frontend Developer
@@ -43,8 +43,8 @@ const Hero: React.FC = () => {
               <div className="absolute -inset-1 rounded-full bg-gradient-to-r from-accent to-primary opacity-75 blur"></div>
               <div className="relative bg-card rounded-full overflow-hidden h-64 w-64 md:h-80 md:w-80 border-4 border-background">
                 <img 
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80" 
-                  alt="John Doe" 
+                  src="https://images.unsplash.com/photo-1649972904349-6e44c42644a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1587&q=80" 
+                  alt="Richard Akintunde" 
                   className="object-cover w-full h-full"
                 />
               </div>
