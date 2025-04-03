@@ -17,28 +17,34 @@ const Footer: React.FC = () => {
           <div className="flex flex-col items-center md:items-end">
             <div className="flex space-x-4 mb-4">
               <a 
-                href="#" 
+                href="https://github.com/Richdigital2021" 
+                target="_blank"
+                rel="noopener noreferrer"
                 className="p-2 bg-secondary-foreground/10 rounded-full hover:bg-secondary-foreground/20 transition-colors"
                 aria-label="GitHub"
               >
                 <Github size={20} />
               </a>
               <a 
-                href="#" 
+                href="http://www.linkedin.com/in/richard-akintunde" 
+                target="_blank"
+                rel="noopener noreferrer"
                 className="p-2 bg-secondary-foreground/10 rounded-full hover:bg-secondary-foreground/20 transition-colors"
                 aria-label="LinkedIn"
               >
                 <Linkedin size={20} />
               </a>
               <a 
-                href="#" 
+                href="https://x.com/Richy_Akinz" 
+                target="_blank"
+                rel="noopener noreferrer"
                 className="p-2 bg-secondary-foreground/10 rounded-full hover:bg-secondary-foreground/20 transition-colors"
                 aria-label="Twitter"
               >
                 <Twitter size={20} />
               </a>
               <a 
-                href="mailto:johndoe@example.com" 
+                href="mailto:akintunderichard8@gmail.com" 
                 className="p-2 bg-secondary-foreground/10 rounded-full hover:bg-secondary-foreground/20 transition-colors"
                 aria-label="Email"
               >

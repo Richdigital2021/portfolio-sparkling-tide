@@ -19,13 +19,13 @@ const Hero: React.FC = () => {
               I build exceptional and accessible digital experiences for the web. Specializing in modern frontend technologies, I create responsive and user-friendly interfaces.
             </p>
             <div className="flex space-x-4 mb-12">
-              <a href="#" className="social-icon" aria-label="GitHub">
+              <a href="https://github.com/Richdigital2021" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="GitHub">
                 <Github size={20} />
               </a>
-              <a href="#" className="social-icon" aria-label="LinkedIn">
+              <a href="http://www.linkedin.com/in/richard-akintunde" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="LinkedIn">
                 <Linkedin size={20} />
               </a>
-              <a href="#" className="social-icon" aria-label="Twitter">
+              <a href="https://x.com/Richy_Akinz" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="Twitter">
                 <Twitter size={20} />
               </a>
             </div>
